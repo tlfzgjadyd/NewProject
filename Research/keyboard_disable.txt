@@ -1,0 +1,2 @@
+키보드 세팅 disabled로 만들려면 new accelerator 뜰때 backspace 눌러준다
+
